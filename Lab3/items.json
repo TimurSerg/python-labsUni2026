@@ -1,0 +1,23 @@
+{
+    "1": {
+        "id": 1,
+        "name": "Laptop",
+        "price": 1200,
+        "color": "Silver",
+        "weight": 1.5
+    },
+    "2": {
+        "id": 2,
+        "name": "Smartphone",
+        "price": 800,
+        "color": "Black",
+        "weight": 0.2
+    },
+    "3": {
+        "id": 3,
+        "name": "Headphones",
+        "price": 150,
+        "color": "White",
+        "weight": 0.3
+    }
+}
